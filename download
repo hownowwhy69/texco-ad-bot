@@ -1,0 +1,24 @@
+#
+# ── Nexa Coders ─────────────────────────────────────
+# Telegram Ads Bot
+#
+# © 2026 NexaCoders. All Rights Reserved.
+# Github  : https://github.com/Team-nexa
+# Project : https://github.com/Team-nexa/Ads-Bot
+#
+# Licensed under the MIT License.
+# ───────────────────────────────────────────────────
+#
+
+API_ID=
+API_HASH=
+BOT_TOKEN=
+LOGGER_BOT_TOKEN=
+MONGO_URI=
+MAX_ACCOUNTS=5
+DEFAULT_DELAY=300
+PROFILE_LAST_NAME="| By @NexaMeetup"
+BIO_TEXT="Ads Managed by @NexaCoders"
+START_IMAGE=
+
+# ── Powered by Nexa Coders ──
