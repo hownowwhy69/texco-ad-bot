@@ -1,5 +1,5 @@
 #
-# ── Rexa Coders ─────────────────────────────────────
+# ── Nexa Coders ─────────────────────────────────────
 # Telegram Ads Bot
 #
 # © 2026 NexaCoders. All Rights Reserved.
